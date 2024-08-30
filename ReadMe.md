@@ -1,10 +1,10 @@
-#Overview
+# Overview
 This project shows the design and development of Security Provider. 
 
-#Design
+# Design
 Modules in the project - UX MOdule, Controller Module, Security Provider Module.
 
-![Module Diagram](Images\Module Diagram.jpg)
+![Module Diagram](https://github.com/Harikak09/SecurityProvider/blob/master/Images/Class%20Diagram.jpg?raw=true)
 
 - **Security Provider**
 
@@ -21,6 +21,7 @@ This module takes the i/p from the UI and decides which security providers to us
 - **UX**
 This provides interface to the user.
 
-![Class Diagram](Images\Class Diagram.jpg)
+![Class Diagram](https://github.com/Harikak09/SecurityProvider/blob/master/Images/Module%20Diagram.jpg?raw=true)
+
 
 
